@@ -1,8 +1,10 @@
 #### Hi there, I'm [Zeo!](https://github.com/godzeo/) 👋
 
 - :cn: I’m an security engineer 
-- Pentester & Offensive team
-
+- Pentester
+- Blue team
+- Red team & Offensive team
+- Security Compliance
  </div>
  <!--  换行 -->
  </br>
