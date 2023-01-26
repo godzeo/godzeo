@@ -2,7 +2,7 @@
 
 - :cn: I’m an security engineer 
 - Pentester
-- Blue team
+- APP SDLC Engineer
 - Red team & Offensive team
 - Security Compliance
  </div>
