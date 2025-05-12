@@ -2,7 +2,8 @@
 
 - :cn: I’m an security engineer 
 - Pentester
-- APP SDLC Engineer (Now)
+- Application SDLC Engineer (Now)
+- Security Develope Engineer (Now)
 - Red team & Offensive team 
 - Security Compliance 
  </div>
